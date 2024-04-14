@@ -4,7 +4,7 @@ Cloudflare Pages を利用した、各サービスへのリダイレクト用サ
 
 ## 書き方
 
-`_redirect` ファイルに以下の形式で記述することでリダイレクトさせられる。
+`_redirects` ファイルに以下の形式で記述することでリダイレクトさせられる。
 
 ```
 <source> <destination> [code]
