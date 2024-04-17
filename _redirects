@@ -3,6 +3,7 @@
 / https://github.com/conarin/redirect 302
 
 /github https://github.com/conarin 302
+/github/* https://github.com/conarin/:splat
 
 /twitter https://twitter.com/_conarin_ 302
 /x /twitter 302
