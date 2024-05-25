@@ -1,6 +1,6 @@
 /example https://example.com 302
 
-/ https://github.com/conarin/redirect 302
+/ /github/redirect 302
 
 /github https://github.com/conarin 302
 /github/* https://github.com/conarin/:splat
