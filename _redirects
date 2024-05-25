@@ -5,10 +5,10 @@
 /github https://github.com/conarin 302
 /github/* https://github.com/conarin/:splat
 
-/twitter https://twitter.com/_conarin_ 302
-/twitter/status/:snowflake https://twitter.com/_conarin_/status/:snowflake
-/x /twitter 302
-/x/status/:snowflake https://twitter.com/_conarin_/status/:snowflake
+/x https://x.com/_conarin_ 302
+/x/status/:snowflake https://x.com/_conarin_/status/:snowflake
+/twitter /x 302
+/twitter/status/:snowflake /x/status/:snowflake
 
 /misskeyio https://misskey.io/@conarin 302
 /misskey /misskeyio 302
