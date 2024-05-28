@@ -29,12 +29,12 @@
 /discord/bots/support https://discord.gg/5W8ekT7HDF 302
 /discord/bots/status https://conarin.com/bots/status 302
 
-/discord/bots/timer/invite https://discord.com/api/oauth2/authorize?client_id=641265812753350676&permissions=19456&scope=bot 302
+/discord/bots/timer/invite https://discord.com/oauth2/authorize?client_id=641265812753350676&permissions=19456&scope=bot%20applications.commands&integration_type=0 302
 /discord/bots/timer/support https://discord.gg/PkfS5cq 302
 /discord/bots/timer/twitter https://twitter.com/jstimerbot 302
 /discord/bots/timer/x /discord/bots/timer/twitter 302
 
-/discord/bots/seichi/invite https://discord.com/api/oauth2/authorize?client_id=603431090530549790&permissions=52224&scope=bot 302
+/discord/bots/seichi/invite https://discord.com/oauth2/authorize?client_id=603431090530549790&permissions=52224&scope=applications.commands%20bot&integration_type=0 302
 /discord/bots/seichi/support https://discord.gg/u4v5GU2 302
 /discord/bots/seichi/twitter https://twitter.com/seichibot 302
 /discord/bots/seichi/x /discord/bots/seichi/twitter 302
