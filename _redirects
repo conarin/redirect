@@ -4,6 +4,8 @@
 
 /github https://github.com/conarin 302
 /github/* https://github.com/conarin/:splat
+/gh /github 302
+/gh/* /github/:splat
 
 /x https://x.com/_conarin_ 302
 /x/status/:snowflake https://x.com/_conarin_/status/:snowflake
