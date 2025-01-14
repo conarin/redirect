@@ -7,8 +7,8 @@
 /gh /github 302
 /gh/* /github/:splat
 
-/x https://x.com/_conarin_ 302
-/x/status/:snowflake https://x.com/_conarin_/status/:snowflake
+/x https://x.com/conarin_com 302
+/x/status/:snowflake https://x.com/conarin_com/status/:snowflake
 /twitter /x 302
 /twitter/status/:snowflake /x/status/:snowflake
 
